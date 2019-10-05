@@ -1,0 +1,60 @@
+ul li{
+	display:inline-block;
+	color:navy-blue;
+	margin-right:90px;
+}
+ul{
+	text-align:center;
+	padding:60px;
+}
+body{background-size:cover;
+	background-repeat:no repeat;
+	background-color:purple;
+	height:60vh;
+}
+a:hover{
+		color:green;
+}
+section{
+		background-color:red;
+		height:500px;
+		width:55%;
+		margin-left:300px;
+		float:center;
+		padding:25px;
+}
+header{
+	background-color:white;
+}
+hl
+	font-size:50px;
+	font-weight:bold;
+	font-family:cursive;
+}
+aside{
+	width:50%;
+	height:50px;
+	background-color:darkblue;
+	padding:15px:
+}
+#hero{
+	 color:white;
+	 font-size:50px;
+	 text-align:center;
+	 margin-top:100px;
+	 background-color: blue;
+	 opacity:0.8;
+}	
+button{
+	 padding:30px;
+	 background-color:red;
+	 color:yellow;
+	 margin-left:500px;
+	 border-radius:500px;
+}	
+.btn:hover{
+	background-color:purple;
+}
+#picSec{
+	opacity:0.8;
+}
